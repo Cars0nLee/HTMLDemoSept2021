@@ -1,0 +1,33 @@
+h1 {
+    height: 75px;
+    background-color: black;
+    color: white;
+    text-align: left;
+    font-family: cursive;
+    font-size: 45px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+
+span {
+    color: #0ff;
+}
+
+h2{
+    height: 50px;
+    background-color: #663399;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    padding-top: 10px;
+}
+
+h3{
+    height:30px;
+    text-align: right;
+    background-color: #9fc5f8;
+    text-decoration: underline;
+    padding-right: 20px;
+    padding-top: 5px;
+}
