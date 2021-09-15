@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-weight: 1000;
+}
+.out {
+
+}
+
+.top {
+    height: 230px;
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.middle {
+    height: 230px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.bottom {
+    height: 230px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}    
+
+h4 {
+    display: flex;
+    justify-content: center;
+}
